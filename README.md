@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+link to check using gh pages: https://yeikol2703.github.io/samsung-calc-react/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
