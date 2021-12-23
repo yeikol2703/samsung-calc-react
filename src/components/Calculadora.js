@@ -45,7 +45,7 @@ export const Calculadora = () => {
 
     return (
       <div>
-        <p className="tittle">Calculator using React</p>
+        <p className="tittle">JCalculadora using React</p>
 <div className="container">
         <p>{predata}</p>
       <div className="wrapper">   
